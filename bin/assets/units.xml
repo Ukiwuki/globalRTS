@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ef05b15bfa86dda7f5dc1679f923bd77$ -->
+<TextureAtlas imagePath="units.png">
+    <SubTexture name="unit0" x="87" y="35" width="17" height="12"/>
+    <SubTexture name="unit1" x="108" y="19" width="17" height="12"/>
+    <SubTexture name="unit10" x="87" y="19" width="17" height="12"/>
+    <SubTexture name="unit11" x="108" y="3" width="17" height="12"/>
+    <SubTexture name="unit12" x="87" y="3" width="17" height="12"/>
+    <SubTexture name="unit13" x="66" y="35" width="17" height="12"/>
+    <SubTexture name="unit14" x="66" y="19" width="17" height="12"/>
+    <SubTexture name="unit15" x="66" y="3" width="17" height="12"/>
+    <SubTexture name="unit16" x="45" y="35" width="17" height="12"/>
+    <SubTexture name="unit2" x="45" y="19" width="17" height="12"/>
+    <SubTexture name="unit3" x="45" y="3" width="17" height="12"/>
+    <SubTexture name="unit4" x="24" y="35" width="17" height="12"/>
+    <SubTexture name="unit5" x="24" y="19" width="17" height="12"/>
+    <SubTexture name="unit6" x="24" y="3" width="17" height="12"/>
+    <SubTexture name="unit7" x="3" y="35" width="17" height="12"/>
+    <SubTexture name="unit8" x="3" y="19" width="17" height="12"/>
+    <SubTexture name="unit9" x="3" y="3" width="17" height="12"/>
+</TextureAtlas>

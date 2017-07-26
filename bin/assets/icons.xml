@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:77c0bbd7a4a799944901bae7e72df3f0$ -->
+<TextureAtlas imagePath="icons.png">
+    <SubTexture name="capitalIcon" x="3" y="3" width="49" height="47" frameX="-1" frameY="-3" frameWidth="51" frameHeight="51"/>
+    <SubTexture name="townIcon0" x="209" y="3" width="47" height="47" frameX="-1" frameY="-2" frameWidth="51" frameHeight="51"/>
+    <SubTexture name="townIcon1" x="158" y="3" width="47" height="47" frameX="-1" frameY="-2" frameWidth="51" frameHeight="51"/>
+    <SubTexture name="townIcon2" x="107" y="3" width="47" height="47" frameX="-1" frameY="-2" frameWidth="51" frameHeight="51"/>
+    <SubTexture name="townIcon3" x="56" y="3" width="47" height="47" frameX="-1" frameY="-2" frameWidth="51" frameHeight="51"/>
+</TextureAtlas>
